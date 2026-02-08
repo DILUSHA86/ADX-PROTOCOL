@@ -1,4 +1,4 @@
-9<!DOCTYPE html>
+E59<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -218,7 +218,6 @@
     </div>
 </body>
     </html>
-cd ~/ADX-Protocol
 <!DOCTYPE html>
 <html lang="en">
 <head>
