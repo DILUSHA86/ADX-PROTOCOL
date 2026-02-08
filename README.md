@@ -109,7 +109,8 @@
         animate();
     </script>
 </body>
-</html>import os
+</html>
+import os
 import time
 
 def sync_bridge_environment(phase):
