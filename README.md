@@ -110,3 +110,4 @@
     </script>
 </body>
 </html>
+https://www.seaart.ai/models/detail/d0vnc1le878c73be8r3g is correct in the "View Checkpoint" button.
