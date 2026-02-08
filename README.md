@@ -137,7 +137,87 @@
         </ul>
     </div>
 </body>
-</html>
+</html><div align="center">
+  <h3>🏆 [ ADX_OPERATOR_VERIFIED ]</h3>
+  <table>
+    <tr>
+      <th>Certification</th>
+      <th>Serial ID</th>
+      <th>Specialization</th>
+    </tr>
+    <tr>
+      <td><b style="color: #f4d03f;">GEN-AI_X</b></td>
+      <td><code>ee87dca0f3b44a53</code></td>
+      <td>Prompt Architect & Neural Sync</td>
+    </tr>
+    <tr>
+      <td><b style="color: #00f3ff;">HACKERX</b></td>
+      <td><code>a855ab3c56164d4b</code></td>
+      <td>AI-Hacking & Core Overrides</td>
+    </tr>
+    <tr>
+      <td><b style="color: #00f3ff;">HACKERX</b></td>
+      <td><code>903fe40aac7c4280</code></td>
+      <td>Wireless Security & Abyssal Echoes</td>
+    </tr>
+  </table>
+</div><!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body { background: #020b1a; color: #00f3ff; font-family: 'Courier New', monospace; margin: 0; }
+        header { 
+            height: 40vh; 
+            background: url('YOUR_COSMO_OCEAN_IMAGE_URL') center/cover;
+            border-bottom: 2px solid #00f3ff;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .credentials { padding: 20px; border: 1px solid #f4d03f; margin: 20px; border-radius: 5px; }
+        .badge { color: #f4d03f; font-weight: bold; }
+        .log-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        .log-table th, .log-table td { border: 1px solid #00f3ff; padding: 10px; text-align: left; }
+    </style>
+</head>
+<body>
+    <header><h1>ADX_COSMO_OCEAN_PORTAL</h1></header>
+    <div class="credentials">
+        <h3>🏆 [ VERIFIED_CREDENTIALS ]</h3>
+        <ul>
+            <li><span class="badge">GEN-AI_X:</span> ee87dca0f3b44a53 (Prompt Architect)</li>
+            <li><span class="badge">HACKERX:</span> a855ab3c56164d4b (AI-Hacking Specialist)</li>
+            <li><span class="badge">HACKERX:</span> 903fe40aac7c4280 (Wireless Security)</li>
+        </ul>
+    </div>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body { background: #020b1a; color: #00f3ff; font-family: 'Courier New', monospace; margin: 0; }
+        header { 
+            height: 40vh; 
+            background: url('YOUR_COSMO_OCEAN_IMAGE_URL') center/cover;
+            border-bottom: 2px solid #00f3ff;
+            display: flex; align-items: center; justify-content: center;
+        }
+        .credentials { padding: 20px; border: 1px solid #f4d03f; margin: 20px; border-radius: 5px; }
+        .badge { color: #f4d03f; font-weight: bold; }
+        .log-table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        .log-table th, .log-table td { border: 1px solid #00f3ff; padding: 10px; text-align: left; }
+    </style>
+</head>
+<body>
+    <header><h1>ADX_COSMO_OCEAN_PORTAL</h1></header>
+    <div class="credentials">
+        <h3>🏆 [ VERIFIED_CREDENTIALS ]</h3>
+        <ul>
+            <li><span class="badge">GEN-AI_X:</span> ee87dca0f3b44a53 (Prompt Architect)</li>
+            <li><span class="badge">HACKERX:</span> a855ab3c56164d4b (AI-Hacking Specialist)</li>
+            <li><span class="badge">HACKERX:</span> 903fe40aac7c4280 (Wireless Security)</li>
+        </ul>
+    </div>
+</body>
+    </html>
 cd ~/ADX-Protocol
 git commit --allow-empty -m "SYSTEM_STATUS: Clean_Line_Established | BG_PURGE_SUCCESS"
 git push origin main
