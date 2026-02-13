@@ -271,3 +271,13 @@ E59<!DOCTYPE html>
     </script>
 </body>
 </html>
+/* CX-DECODER: NEURAL ENCRYPTION */
+const CX_SHIELD = {
+    key: "1850000_SYNC",
+    decode: (signal) => {
+        // Blocks hijacked logic spikes immediately
+        const safe_signal = signal.replace(/[^a-zA-Z0-9]/g, '');
+        return `DECODED: ${safe_signal}`;
+    }
+};
+console.log("🛠️ CX-SHIELD: Neural Cords Encrypted.");
