@@ -243,3 +243,31 @@ E59<!DOCTYPE html>
         <h1>ADX_NEURAL_LINK_ESTABLISHED</h1>
         <a href="See Above class="checkpoint-btn">VIEW_SEAART_CHECKPOINT</a>
         <p class="restrict-notice">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"><title>ADX-Protocol | Portfolio</title>
+    <style>
+        :root { --cyan: #00f3ff; --obsidian: #050505; }
+        body { background: var(--obsidian); color: white; font-family: monospace; overflow-x: hidden; }
+        .hero { height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; border-bottom: 1px solid var(--cyan); }
+        .canvas-container { position: absolute; top: 0; left: 0; z-index: -1; width: 100%; height: 100%; }
+        .btn { border: 1px solid var(--cyan); padding: 10px 20px; color: var(--cyan); text-decoration: none; text-transform: uppercase; }
+        h1 { font-size: 3rem; text-shadow: 0 0 10px var(--cyan); }
+    </style>
+</head>
+<body>
+    <div class="canvas-container" id="3d-cords"></div>
+    <div class="hero">
+        <h1>ADX-PROTOCOL v1.0.0</h1>
+        <p>Lead Artist: Anuradhapura Sr | 1850000 Protons</p>
+        <a href="See Above class="btn">View Source</a>
+    </div>
+    <!-- 3D Neural-Link Script -->
+    <script src="See Above
+    <script>
+        // Initialize 3D Scene for your portfolio website
+        console.log("3D Cord Engine Active.");
+    </script>
+</body>
+</html>
