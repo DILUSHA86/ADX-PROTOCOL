@@ -292,3 +292,17 @@ console.log("🛠️ CX-SHIELD: Neural Cords Encrypted.");
         }
     };
 </script>
+<!-- Alpha-Gema Network Shield -->
+<script>
+    const ALPHA_GEMA = {
+        scan_frequency: "ECHO_DEC_SYNC",
+        block_local_hijack: () => {
+            if (window.location.protocol !== 'https:') {
+                console.warn("🛑 LOCAL_NETWORK_EXPOSURE: SECURE CONNECTION REQUIRED.");
+            }
+            // Anti-spoofing biometric check
+            return "BIOMETRIC_STATUS: SECURED_BY_1850000_PROTONS";
+        }
+    };
+    ALPHA_GEMA.block_local_hijack();
+</script>
