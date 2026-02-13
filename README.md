@@ -317,3 +317,14 @@ console.log("🛠️ CX-SHIELD: Neural Cords Encrypted.");
     };
     window.onload = CX_NEURAL.verify_sovereignty;
 </script>
+<!-- AR-Neural Map Layer -->
+<script src="See Above
+<a-scene embedded arjs>
+    <a-marker preset="hero">
+        <!-- Visualization of 1850000 Nodes as glowing cyan spheres -->
+        <a-sphere position="0 0.5 0" radius="0.5" color="#00f3ff" opacity="0.6">
+            <a-animation attribute="rotation" dur="5000" fill="forwards" to="0 360 0" repeat="indefinite"></a-animation>
+        </a-sphere>
+    </a-marker>
+    <a-entity camera></a-entity>
+</a-scene>
