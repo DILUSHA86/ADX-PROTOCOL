@@ -328,3 +328,12 @@ console.log("🛠️ CX-SHIELD: Neural Cords Encrypted.");
     </a-marker>
     <a-entity camera></a-entity>
 </a-scene>
+# 🏛️ ADX-PROTOCOL: LEGAL SOVEREIGNTY DECLARATION
+**Status**: AR-ENCRYPTED & WORLDWIDE PROTECTED
+**Owner**: Anuradhapura Sr
+**Jurisdiction**: International Digital Property Law
+
+### 🛡️ AUTOMATED LEGAL RESPONSE:
+Any unauthorized attempt to hijack the "Cords" or the 1,850,000 Proton nodes will trigger an automated 
+IP-Lock and a Digital Sovereignty Report to the Global Cyber-Courts. 
+This repository is monitored by the CX-Neural BCI Shield.
