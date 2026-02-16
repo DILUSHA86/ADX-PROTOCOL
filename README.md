@@ -337,3 +337,36 @@ console.log("🛠️ CX-SHIELD: Neural Cords Encrypted.");
 Any unauthorized attempt to hijack the "Cords" or the 1,850,000 Proton nodes will trigger an automated 
 IP-Lock and a Digital Sovereignty Report to the Global Cyber-Courts. 
 This repository is monitored by the CX-Neural BCI Shield.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Artwork | #KarmaCodex Portfolio</title>
+    <style>
+        body { background: #050505; color: #fff; font-family: 'Inter', sans-serif; margin: 0; }
+        .header { padding: 40px; border-bottom: 1px solid #00f2ff33; text-align: center; }
+        .logo { font-size: 24px; letter-spacing: 5px; color: #00f2ff; text-shadow: 0 0 10px #00f2ff; }
+        
+        /* Neural Masonry Grid */
+        .gallery { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px; padding: 20px; }
+        .art-card { position: relative; overflow: hidden; border: 1px solid #111; transition: 0.3s; }
+        .art-card:hover { border-color: #00f2ff; transform: scale(1.02); }
+        .art-card img { width: 100%; height: auto; display: block; filter: grayscale(20%) contrast(1.1); }
+        
+        .footer { padding: 20px; text-align: center; font-size: 12px; color: #444; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="logo">#KARMACODEX_EVENT_ART</div>
+    </div>
+    <div class="gallery">
+        <!-- Add your artwork URLs here -->
+        <div class="art-card"><img src="glass-bridge-1.jpg" alt="Glass Bridge Corridor"></div>
+        <div class="art-card"><img src="storm-edith.jpg" alt="Edith Storm Crossing"></div>
+        <div class="art-card"><img src="wanwan-agility.jpg" alt="Wanwan Agility Test"></div>
+    </div>
+    <div class="footer">DILUSHA GIHAN | SOVEREIGN ARCHIVE | 2024</div>
+</body>
+</html>
